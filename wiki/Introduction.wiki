@@ -1,0 +1,18 @@
+#summary Introduction to ForPlay: your first game.
+
+= Introduction =
+
+The easiest way to write a game using ForPlay is to start with the samples. Start by downloading some prerequisites:
+ # ForPlay
+ # Eclipse
+ # Google Plugin for Eclipse
+
+= Details =
+
+Start by importing forplay/sample/peaphysics into Eclipse. You should have a project with a package structure similar to:
+ * forplay/sample/peaphysics/core/ [core game code]
+ * forplay/sample/peaphysics/flash/ [flash platform entry point]
+ * forplay/sample/peaphysics/java/ [java platform entry point]
+ * forplay/sample/peaphysics/html/ [html platform entry point]
+
+Right click on PeaPhysicsGameJava.java in the java platform entry point, and select "Debug As" -> "Java Application". The Pea Physics sample should now run! Click the red GWT compile icon to compile the html platform entry point.
