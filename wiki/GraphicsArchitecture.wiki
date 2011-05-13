@@ -124,6 +124,7 @@ public void init() {
 }
 }}}
 
+*Note*: Using an image created this way with ImageLayer doesn't work properly yet. See http://code.google.com/p/forplay/issues/detail?id=7 for details.
 
 == The differences among `Layer`, `Canvas` and `Surface` ==
 
