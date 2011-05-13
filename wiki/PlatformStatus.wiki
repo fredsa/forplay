@@ -1,0 +1,9 @@
+#summary Implementation status of supported target platforms
+
+=Java Desktop=
+
+=HTML5=
+
+=Android=
+
+=Flash=
