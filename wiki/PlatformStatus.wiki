@@ -6,7 +6,7 @@ The purpose of the Java desktop platform is simply to support development and de
 
 =HTML5=
 
-This platform is fully-implemented, and is pretty well optimized at this point (not that there aren't always opportunities for further optimization). There are WebGL and Canvas renderers (the "canvas" renderer is really a combination of CSS3 transforms applied to DOM elements, along with <canvas> elements for imperative rendering). 
+This platform is fully-implemented, and is pretty well optimized at this point (not that there aren't always opportunities for further optimization). There are WebGL and Canvas renderers (the "canvas" renderer is really a combination of CSS3 transforms applied to DOM elements, along with canvas elements for imperative rendering). 
 
 It supports the following browsers:
 - Chrome (gl)
