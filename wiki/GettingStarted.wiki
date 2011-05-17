@@ -1,5 +1,7 @@
 = ForPlay Installation + Setup =
 
+*Note: It is a known issue that the maven poms are screwed up right now. We're working on getting them fixed so that you can build everything from the command-line.*
+
 == Software Installation ==
 
  # Download and install the latest Java 6 JDK
