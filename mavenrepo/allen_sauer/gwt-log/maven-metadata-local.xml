@@ -3,11 +3,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <groupId>allen_sauer</groupId>
   <artifactId>gwt-log</artifactId>
-  <version>1.0.r595</version>
+  <version>1.0.r611</version>
   <versioning>
     <versions>
-      <version>1.0.r595</version>
+      <version>1.0.r611</version>
     </versions>
-    <lastUpdated>20110516165429</lastUpdated>
+    <lastUpdated>20110517081551</lastUpdated>
   </versioning>
 </metadata>
