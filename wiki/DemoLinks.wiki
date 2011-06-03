@@ -11,3 +11,5 @@
     * Mohamed Ousgougou / SFEIR
   * [http://flyforcoins.appspot.com/ FlyForCoins]
     * Paolo Coutinho
+
+More to come -- We should have Flash .SWFs and Android .APKs before long.
