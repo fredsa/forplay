@@ -1,7 +1,9 @@
 #labels Featured
-= ForPlay Installation + Setup =
+= !ForPlay Installation + Setup =
 
-*Note: It is a known issue that the maven poms are screwed up right now. We're working on getting them fixed so that you can build everything from the command-line.*
+*Note the first: The command-line build is working now (run "ant install" from the root to build everything), but some people are still running into problems with the Eclipse projects. We hope to move to a more sound way of building and sharing the Eclipse projects Real Soon Now.*
+
+*Note the second: These instructions are a bit out-of-date. We'll update them again as soon as we get the last of the build kinks worked out.*
 
 == Software Installation ==
 
