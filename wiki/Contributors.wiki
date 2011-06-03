@@ -1,0 +1,17 @@
+#summary Guidelines for submitting patches to Forplay
+
+= First Things First =
+
+  * You'll need to sign a [http://code.google.com/p/forplay/source/browse/trunk/CONTRIBUTORS Contributor License Agreement] before submitting a patch. It's fairly simple and painless.
+    * Once you've done that, please ping the [http://groups.google.com/group/gwt-forplay discussion group] so we can add you to the contributors list.
+  * Familiarize yourself with the CodeStyle. It's not unusual, but we do a few things differently than you might be used to.
+
+= Code Reviews =
+
+We do pre-submit code reviews using the [http://code.google.com/p/rietveld/ Rietveld] code-review tool. We've found pre-submit reviews to be a great way to catch problems early, and to share knowledge.
+
+Once you've got a patch ready for review, you can upload it to [http://forplay-code-reviews.appspot.com/ our Rietveld instance] using the Pythong script `tools/upload.py`. This will automatically create an issue, and give you a link to it. It's generally best to ping the [http://groups.google.com/group/gwt-forplay discussion group] to get someone to have a look.
+
+If your patch is for a specific issue, please put a reference to the issue number in the patch description (bonus points for adding a link to the patch in the issue you're fixing). If there's no such issue, please create one. This helps communicate to everyone what's being worked on, and helps avoid duplicated effort.
+
+Once the review is complete, the reviewer or someone else with commit access will submit it to svn for you.
