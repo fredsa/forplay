@@ -13,3 +13,5 @@
     * Paolo Coutinho
   * [http://xna-platformer.appspot.com/Platformer.html XNA Platformer sample] ([https://github.com/joelgwebber/xna-platformer code])
     * Joel Webber / [http://msdn.microsoft.com/en-us/library/dd254918(v=xnagamestudio.31).aspx Microsoft]
+  * [http://forplay-2h4u.appspot.com/ 2H4U] ([https://github.com/pyricau/toohardforyou source])
+    * Pierre-Yves Ricau
