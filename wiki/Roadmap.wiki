@@ -1,0 +1,3 @@
+#summary Future plans for Forplay
+
+We really need a roadmap. Please chime in on the [http://groups.google.com/group/gwt-forplay group] if you have particular things you'd like to see prioritized.
