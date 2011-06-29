@@ -1,0 +1,5 @@
+#summary Libraries that extend the ForPlay core with useful functionality
+
+==TriplePlay==
+  * Utilities for use in ForPlay-based games
+  * http://github.com/threerings/tripleplay
