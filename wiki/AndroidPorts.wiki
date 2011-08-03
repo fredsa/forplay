@@ -1,6 +1,6 @@
 #summary How to build and run an Android port of your ForPlay game
 
-= Running your ForPlay game on Android =
+= Running your !ForPlay game on Android =
 
 *Note:  This article assumes that you already have a working ForPlay game, with the game and ForPlay loaded in projects in Eclipse.  It also assumes that you have a basic familiarity with Android development and have already installed the Android SDK and API 11 into Eclipse.   If you are unfamiliar with these topics, please see the documentation on the official [http://developer.android.com/sdk/index.html Android Developers site] and the other articles in this Wiki.*
 
@@ -15,7 +15,7 @@ Open your _mygame-android_ project's *Properties*.  If you set your project to t
 Now open the *Projects* tab.  Add the existing _forplay_ and _mygame_ projects.  Hit *OK* to save your changes.
 
 
-== Configure AndroidManifest.xml ==
+== Configure !AndroidManifest.xml ==
 
 Open up the _AndroidManifest.xml_ file in your Android game project.  Add the following lines within the `<manifest>`  tag:
 
