@@ -29,8 +29,6 @@ class HtmlMouse extends HtmlInput implements Mouse {
       @Override
       public void handleEvent(NativeEvent evt) {
         if (listener != null) {
-          // Prevent the default so that the target element doesn't highlight.
-          evt.preventDefault();
 
           inDragSequence = true;
 
@@ -46,8 +44,6 @@ class HtmlMouse extends HtmlInput implements Mouse {
       @Override
       public void handleEvent(NativeEvent evt) {
         if (listener != null && inDragSequence) {
-          // Prevent the default so that the target element doesn't highlight.
-          evt.preventDefault();
 
           inDragSequence = false;
 
@@ -63,7 +59,6 @@ class HtmlMouse extends HtmlInput implements Mouse {
       @Override
       public void handleEvent(NativeEvent evt) {
         if (listener != null && inDragSequence) {
-          evt.preventDefault();
           listener.onMouseMove(
             new MotionEvent.Impl(ForPlay.currentTime(), getRelativeX(evt, rootElement),
                                  getRelativeY(evt, rootElement)));

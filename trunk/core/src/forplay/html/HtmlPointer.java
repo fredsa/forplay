@@ -29,9 +29,6 @@ class HtmlPointer extends HtmlInput implements Pointer {
       @Override
       public void handleEvent(NativeEvent evt) {
         if (listener != null) {
-          // Prevent the default so that the target element doesn't highlight.
-          evt.preventDefault();
-
           inDragSequence = true;
 
           listener.onPointerStart(
@@ -46,8 +43,6 @@ class HtmlPointer extends HtmlInput implements Pointer {
       @Override
       public void handleEvent(NativeEvent evt) {
         if (listener != null && inDragSequence) {
-          // Prevent the default so that the target element doesn't highlight.
-          evt.preventDefault();
 
           inDragSequence = false;
 
@@ -63,7 +58,6 @@ class HtmlPointer extends HtmlInput implements Pointer {
       @Override
       public void handleEvent(NativeEvent evt) {
         if (listener != null && inDragSequence) {
-          evt.preventDefault();
           listener.onPointerDrag(
             new Event.Impl(ForPlay.currentTime(), getRelativeX(evt, rootElement),
                            getRelativeY(evt, rootElement)));
