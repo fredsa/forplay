@@ -131,6 +131,8 @@ class HtmlMouse extends HtmlInput implements Mouse {
           delta = -1.0 * evt.wheelDelta/3;
         }
       }
+    } else {
+      delta = evt.detail ? evt.detail : -1 * evt.wheelDelta / 40;
     }
     return delta;
   }-*/;
