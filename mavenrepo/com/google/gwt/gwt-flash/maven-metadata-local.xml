@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata xsi:schemaLocation="http://maven.apache.org/METADATA/1.0.0 http://maven.apache.org/xsd/metadata-1.0.0.xsd" xmlns="http://maven.apache.org/METADATA/1.0.0"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
   <groupId>com.google.gwt</groupId>
   <artifactId>gwt-flash</artifactId>
-  <version>1.0</version>
   <versioning>
+    <release>1.0</release>
     <versions>
       <version>1.0</version>
     </versions>
-    <lastUpdated>20110516164041</lastUpdated>
+    <lastUpdated>20110819191922</lastUpdated>
   </versioning>
 </metadata>
