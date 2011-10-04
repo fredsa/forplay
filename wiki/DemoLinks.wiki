@@ -1,6 +1,7 @@
 #summary Links to Forplay games and demos
 #labels Featured
 
+<font color="red">NOTE: ForPlay has moved! It is now known as PlayN: http://code.google.com/p/playn/wiki/DemoLinks</font>
 = In no particular order... =
 
   * [http://forplay-cute-sample.appspot.com/ CuteGame] ([http://code.google.com/p/forplay/source/browse/#svn%2Ftrunk%2Fsample%2Fcute source])
