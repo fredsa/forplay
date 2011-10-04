@@ -5,7 +5,7 @@
 
   * [http://forplay-cute-sample.appspot.com/ CuteGame] ([http://code.google.com/p/forplay/source/browse/#svn%2Ftrunk%2Fsample%2Fcute source])
     * Not much of a game yet.
-  * [http://forplay-peas-sample.appspot.com/ Peas] ([http://code.google.com/p/forplay/source/browse/#svn%2Ftrunk%2Fsample%2Fpeas source])
+  * [http://forplay-peas-sample.appspot.com/Peas.html Peas] ([http://code.google.com/p/forplay/source/browse/#svn%2Ftrunk%2Fsample%2Fpeas source])
     * Also not much of a game yet
   * [http://aqu4rium.appspot.com/ Aqu4rium] ([http://code.google.com/p/sfeir/source/browse/#svn%2Ftrunk%2FFishScreen source])
     * Mohamed Ousgougou / SFEIR
