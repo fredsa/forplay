@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.xamarin</groupId>
+  <artifactId>system-core</artifactId>
+  <version>2.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20120117195120</lastUpdated>
+  </versioning>
+</metadata>

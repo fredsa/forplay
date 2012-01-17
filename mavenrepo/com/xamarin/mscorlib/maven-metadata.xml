@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.xamarin</groupId>
+  <artifactId>mscorlib</artifactId>
+  <version>4.0-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>4.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120117194929</lastUpdated>
+  </versioning>
+</metadata>
