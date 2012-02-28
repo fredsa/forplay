@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.googlecode.gwt-flash</groupId>
+  <artifactId>gwt-flash</artifactId>
+  <version>1.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20120228.172700</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20120228172700</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.2-20120228.172700-1</value>
+        <updated>20120228172700</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.2-20120228.172700-1</value>
+        <updated>20120228172700</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
