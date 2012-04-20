@@ -6,7 +6,7 @@
   <groupId>com.googlecode.gwt-flash</groupId>
   <artifactId>gwt-flash-project</artifactId>
   <packaging>pom</packaging>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.2</version>
   <name>Gwt Flash Project</name>
   <url>http://code.google.com/p/gwt-flash</url>
   <description>Gwt Flash</description>

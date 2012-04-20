@@ -4,7 +4,7 @@
   <parent>
     <groupId>com.googlecode.gwt-flash</groupId>
     <artifactId>gwt-flash-project</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
   </parent>
 
   <artifactId>gwt-flash</artifactId>
