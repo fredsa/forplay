@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.googlecode.gwt-flash</groupId>
+  <artifactId>gwt-flash-project</artifactId>
+  <packaging>pom</packaging>
+  <version>1.2.1</version>
+  <name>Gwt Flash Project</name>
+  <url>http://code.google.com/p/gwt-flash</url>
+  <description>Gwt Flash</description>
+
+  <issueManagement>
+    <system>Google Code</system>
+    <url>http://code.google.com/p/gwt-flash/issues/list</url>
+  </issueManagement>
+
+  <parent>
+    <groupId>org.sonatype.oss</groupId>
+    <artifactId>oss-parent</artifactId>
+    <version>5</version>
+  </parent>
+
+  <licenses>
+    <license>
+      <name>Apache License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+
+  <developers>
+    <developer>
+      <id>cromwellian</id>
+      <name>Ray Cromwell</name>
+      <email>cromwellian@google.com</email>
+    </developer>
+  </developers>
+
+  <scm>
+    <connection>scm:git:https://code.google.com/p/gwt-flash/</connection>
+    <developerConnection>scm:git:https://code.google.com/p/gwt-flash/</developerConnection>
+    <url>http://code.google.com/p/gwt-flash/source/checkout</url>
+  </scm>
+
+  <properties>
+    <gwt.version>2.3.0</gwt.version>
+  </properties>
+
+  <modules>
+    <module>compiler</module> 
+<!-- add entries for demos -->
+  </modules>
+</project>
