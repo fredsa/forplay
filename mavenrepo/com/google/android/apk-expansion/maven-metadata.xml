@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.google.android</groupId>
+  <artifactId>apk-expansion</artifactId>
+  <version>r3</version>
+  <versioning>
+    <versions>
+      <version>r3</version>
+    </versions>
+    <lastUpdated>20140718152658</lastUpdated>
+  </versioning>
+</metadata>
